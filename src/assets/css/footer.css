@@ -1,0 +1,19 @@
+/* CSS VARIABLES */
+:root {
+  --primary: #141414;
+  --light: #f3f3f3;
+  --dark: #686868;
+}
+
+footer {
+  padding: 20px;
+  text-align: center;
+  color: var(--dark);
+  margin: 10px;
+}
+
+@media (max-width: 700px) {
+  footer .img-fluid {
+    height: 70px !important;
+  }
+}

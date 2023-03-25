@@ -1,0 +1,10 @@
+.starwarslogo {
+  width: 100px;
+  max-height: 100%;
+}
+
+.starwarslogo svg {
+  height: 35px;
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}

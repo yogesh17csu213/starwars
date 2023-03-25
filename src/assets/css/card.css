@@ -1,0 +1,13 @@
+a {
+  text-decoration: none !important;
+}
+a.dark {
+  color: #212529 !important;
+}
+a.light {
+  color: #fff !important;
+}
+
+.card-header {
+  font-size: 0.9rem !important;
+}
